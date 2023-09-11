@@ -1,10 +1,8 @@
 
 <p align="center">
-<img src="https://drive.google.com/file/d/12hTMdnvKOKFUKxTaSoqYMf9To-pt3cnW/view?usp=drive_link" alt="Build Status">
-<img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads">
-<img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version">
-<img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
+<img src="https://a.top4top.io/p_2810ruobj1.jpg" alt="Build Status" title="project image">
 </p>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
