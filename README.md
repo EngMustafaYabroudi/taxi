@@ -1,9 +1,9 @@
 
 <p align="center">
-<img src="https://drive.google.com/file/d/12hTMdnvKOKFUKxTaSoqYMf9To-pt3cnW/view?usp=drive_link" alt="Build Status"></a>
-<img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<img src="https://drive.google.com/file/d/12hTMdnvKOKFUKxTaSoqYMf9To-pt3cnW/view?usp=drive_link" alt="Build Status">
+<img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads">
+<img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version">
+<img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
 </p>
 ## About Laravel
 
